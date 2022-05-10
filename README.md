@@ -15,7 +15,7 @@ by Eddie Hung with Mieszko Lis, Cristian Grecu, Guy Lemieux, and Steve Wilton
 
 ## Introduction
 
-The purpose of this document is to very briefly describe how to use the Intel Quartus Prime and ModelSim software packages to design digital systems. It is targeted at students of CPEN 311 at the University of British Columbia.
+The purpose of this document is to very briefly describe how to use the Intel Quartus Prime and ModelSim software packages to design digital systems. 
 
 A typical design flow may look like this:
 
