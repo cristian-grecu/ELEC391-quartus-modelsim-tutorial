@@ -42,9 +42,6 @@ Prime Help" and "Quartus Prime Programmer and Tools". The programmer is already
 built-in to Quartus, but this allows you to run the programmer as a stand-alone
 tool.
 
-You should also install version 18.1 of the [University Program extensions](https://www.intel.com/content/www/us/en/programmable/support/training/university/materials-software.html?&ifup_version=18.1). Ignore the warning of a version mismatch with Quartus Prime.
-(You do not need to download the Linux SD Card image.)
-
 If you have problems installing the software, please contact your TA during your lab session in the first week of class.
 
 
