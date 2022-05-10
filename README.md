@@ -10,7 +10,7 @@ by Eddie Hung with Mieszko Lis, Cristian Grecu, Guy Lemieux, and Steve Wilton
 * [Synthesis with Quartus Prime](#synthesis-with-quartus-prime)
 * [Programming the FPGA](#programming-the-fpga)
 * [Post\-synthesis simulation](#post-synthesis-simulation)
-* [Conclusion](#conclusion)
+
 
 
 ## Introduction
